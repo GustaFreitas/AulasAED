@@ -1,0 +1,14 @@
+Respostas Pós-Aula 01 (Funções)
+
+01) Função realiza o calculo de uma operação. Mais especificamente, elevando ao quadrado o primeiro número e somando ao resultado da soma dos outros dois números.
+A função recebe 3 valores reais (float).
+
+02) Exercicio 02.cpp
+
+03) O struct. Nada mais é que uma grande variavel que possui várias informações, inclusive de tipos diferentes podendo ser char, float e int.
+
+04) Neste caso a melhor opção é utilizar de vetores e de um laço de repetição para armazenar os dados de todos os alunos.
+
+05) Exercicio 05.cpp
+
+06) Exercicio 06.cpp
