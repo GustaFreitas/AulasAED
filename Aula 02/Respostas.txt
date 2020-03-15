@@ -1,0 +1,25 @@
+b) Cria e atribui os valores as variáveis x, y e z. Não. São variáveis normais que guardam valores e não posições (quando são criadas não utilizam *).
+
+c) Ao imprimir, basta não utilizar o caracter & antes da variável. Um exemplo está nas linhas 16 a 18;
+
+d) Criam os ponteiros e atribuem qual endereço das variaveis cada um deve guardar.
+
+e) Teoricamente o calor da variável x seria guardado dentro do ponteiro. Um erro é apontado pois os ponteros guardam apenas endereços.
+
+f) x = 6487580
+   y = 6487576
+   z = 6487572
+
+g) Os endereços são diferente.
+
+   x = 6487556
+   y = 6487552
+   z = 6487548
+
+h) x = 6487560
+   y = 6487552
+   z = 6487544
+
+i) Basicamente imprimem o valor das variáveis x, y e z utilizando os ponteiros.
+
+
