@@ -1,0 +1,10 @@
+00 - Transcreva todos os códigos do slide, compile e analise os mesmos.
+
+01 - b. O código faz basicamente o que o exemplo do slide já havia exposto com a grande difereça de exibir os valores contidos na lista.
+
+02 - Faça um algoritmo que:
+a. Modifique a função removeIntermediario() do slide para remover qualquer nó intermediário.
+b. O nó deverá ser passado para a função, buscado e depois excluído.
+c. Os retornos possíveis são:
+Retornar -1 se não for possível remover;
+Retornar n se for possível remover o valor.
