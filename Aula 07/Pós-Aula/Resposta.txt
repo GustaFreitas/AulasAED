@@ -1,0 +1,9 @@
+Respostas Pós-Aula 07 (Filas)
+
+01) "gotoxy" não conhecia. Após algumas pesquisas consegui entender a funcionalidade (inclusive usei em meu codigo na Avaliação Oficial 01).
+
+02) Adicionaria uma opção para adicionar um número expecífico, e não somente números aleatórios.
+
+03) Atualmente há como remover um número da lista mesmo vazia. Um if resolveria essa questão.
+
+04) Pós-Aula 07.cpp
